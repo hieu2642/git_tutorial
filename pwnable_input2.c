@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 
 int main(int argc, char* argv[], char* envp[]){
-	printf("Welcome to pwnable.kr\n");
+	
 	printf("Let's see if you know how to give input to program\n");
 	printf("Just give me correct inputs then you will get the flag :)\n");
 
