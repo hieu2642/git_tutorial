@@ -7,7 +7,7 @@
 int main(int argc, char* argv[], char* envp[]){
 	
 	printf("Let's see if you know how to give input to program\n");
-	printf("Just give me correct inputs then you will get the flag :)\n");
+	
 
 	// argv
 	if(argc != 100) return 0;
